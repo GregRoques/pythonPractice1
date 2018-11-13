@@ -22,4 +22,18 @@ print 3+3;
 
 # Primative Data Types: String, Number, Boolean
 
+month = "November";
+print type (month);
+date = 13
+print type(date)
+date2 = 13.008
+print type(date2)
 
+aBool = True;
+print type(aBool)
+
+aList = [];
+print type(aList)
+
+aDictionary = {};
+print type(aDictionary)
