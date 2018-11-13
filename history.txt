@@ -1,0 +1,6 @@
+    1  which zhs
+    2  which zsh
+    3  sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    4  development
+    5  11-13
+    6  git init
