@@ -61,17 +61,33 @@
 
 # % = Modulas. This divides the number and gives you the remainder. 
 
-print 2%3;
+# print 2%3;
 
-print 2**3; # 2 to the power of ^3;
+# print 2**3; # 2 to the power of ^3;
 
-print "-" * 20 # will print 20 dashes; re: in this case, give me 20 of something;
+# print "-" * 20 # will print 20 dashes; re: in this case, give me 20 of something;
 
-# Python does not have a simple incrementer.
+# # Python does not have a simple incrementer.
 
-# num++ does not work in Python.
+# # num++ does not work in Python.
 
-num += 1
+#Inputs:
+# Python 2: raw_input
+# Python 3: input 
 
 
+# conditionals
+
+#  = means set the left to whatever is on the right
+
+#  == means compare the left to the right
+
+gameOn = True;
+i = 0;
+while (gameOn):
+    i +=1;
+    if (i == 10):
+        gameOn = False;
+    else:
+        print "Game on!!"   
 
